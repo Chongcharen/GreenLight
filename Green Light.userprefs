@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/TileTool/Scripts/Editor/TileTool.js">
+    <Files>
+      <File FileName="Assets/TileTool/Scripts/Editor/TileTool.js" Line="459" Column="6" />
+      <File FileName="Assets/Script/Object/Brick.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Manager/ObjectPool.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Manager/BrickManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Obstacle/ObstacleManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Obstacle/ObstacleMode.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Obstacle/ObstacleRedPath.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/Util/Utils.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
